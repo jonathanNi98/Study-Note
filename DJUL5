@@ -1,0 +1,6 @@
+1.import package: pip freeze > requirements.txt
+2.python -m pytest. This command is a way for us to run pacakage as a script. And we need to end as _test so pytest will recoginize it
+3.FLASK_APP=project/app.py python -m flask run -p 5001 will assign the port number for the app
+4.import sys
+  sys.path.append('/Users/jonathan/UMICH/Project/Vue/backend')
+  This command can help us write the path to import some package
