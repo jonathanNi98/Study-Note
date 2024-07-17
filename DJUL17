@@ -4,3 +4,4 @@ db.create_all()
 
 sqlite3 database.db
 .tables
+.exit
