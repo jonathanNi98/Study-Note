@@ -1,0 +1,6 @@
+1.python3
+from app import db
+db.create_all()
+
+sqlite3 database.db
+.tables
