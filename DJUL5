@@ -6,3 +6,4 @@
   This command can help us write the path to import some package
 5.Run the Flask
   (env)$ FLASK_APP=project/app.py python -m flask run -p 5001
+6.python -m venv /path/to/new/virtual/environment
